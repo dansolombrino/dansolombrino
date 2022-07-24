@@ -1,7 +1,7 @@
 ### Ciao, it's Daniele here! 🖐🏻
 
 - 🫘 "The mystery of endings and beginnings, transforms, through perspective."
-- ⚔️ **Purpose**-driven
+- ⚔️ **Purpose**-driven, *40400*
 - 🧪 **Process**-oriented
 - 🧠 MSc student in **Artificial Intelligence** @ **Sapienza University of Rome**
 - 🧬 Aspiring to deploy AI in **Genomics** domains
