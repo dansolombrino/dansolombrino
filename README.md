@@ -1,6 +1,6 @@
 ### Ciao, it's Daniele here! 🖐🏻
 
-- 🫘 "The mystery of endings and beginnings, transforms, through perspective."
+- 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
 - ⚔️ **Purpose**-driven, *40400*
 - 🧪 **Process**-oriented
 - 🧠 MSc student in **Artificial Intelligence** @ **Sapienza University of Rome**
