@@ -1,9 +1,11 @@
 ### Ciao, Daniele here! 🖐🏻
 
-Me, in a nutshell:
+My personal latent space has the following dimensions:
 
 - 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
-- ⚔️ **Purpose**-driven, **process**-oriented
-- 🧠 MSc student in **Artificial Intelligence** @ **Sapienza** University of Rome
+- ⚔️ **Purpose**-driven and **process**-oriented
+- 🧠 **Artificial Intelligence** MSc student @ **Sapienza** University of Rome
 - 🧬 Aspiring to deploy AI in 👶 **Genomics**
-- 🃏 (heavy) [Anki](https://apps.ankiweb.net/) user
+- 🧘‍♂️ **Mindfulness** practitioner
+- 📚 **Books**, audiobooks and courses consumer. Currently learning about:
+  - 🌍 Macro investing
