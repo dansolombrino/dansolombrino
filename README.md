@@ -8,7 +8,7 @@ My latent space has the following dimensions:
 - 🧬 Aspiring to deploy AI in 👶 **Genomics**
 
 
-### Projects I actively contributed to 🚀
+### Some projects I actively contributed to 🚀
 
 
 | Project name      | Project description           |
