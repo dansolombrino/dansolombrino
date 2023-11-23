@@ -11,7 +11,7 @@ My latent space has the following dimensions:
 
 ### Own projects 🔥
 
-| Project name      | Project description           |
+| Name      | Description           |
 |-------------------|-------------------------------|
 | [Biscuits](https://github.com/dansolombrino/Biscuits) | Experiments inspired by the paper [Training BatchNorm and Only BatchNorm](https://openreview.net/forum?id=vYeQQ29Tbvx), ICLR 2021 |
 | [CreActive](https://github.com/dansolombrino/CreActive) | Experiments on activation functions of Deep Neural Networks |
@@ -22,7 +22,7 @@ My latent space has the following dimensions:
 ### Projects I actively contributed to 🚀
 
 
-| Project name      | Project description           |
+| Name      | Description           |
 |-------------------|-------------------------------|
 | [AML_Homework](https://github.com/Astronauts-Making-Limoncello/AML_Homework) | 3D human pose estimation using Spatio-Temporal (Graph) Transformers |
 | [Big Data FC](https://github.com/Big-Data-FC) | Predicting football match results using Machine Learning and Big Data |
