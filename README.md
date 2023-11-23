@@ -13,6 +13,7 @@ My latent space has the following dimensions:
 
 | Project name      | Project description           |
 |-------------------|-------------------------------|
+| [AML_Homework](https://github.com/Astronauts-Making-Limoncello/AML_Homework) | 3D human pose estimation using Spatio-Temporal (Graph) Transformers |
 | [Big Data FC](https://github.com/Big-Data-FC) | Predicting football match results using Machine Learning and Big Data |
 | [Braver Cat](https://github.com/Braver-Cat>Braver-Cat) | Exploring the power of Transfer Learning in brain and liver tumor segmentation |
 | [Cheap Clasp](https://github.com/Cheap-Clasp) | Assessing JPEG image encoding capabilities as alternative to Deep Learning-based models |
