@@ -4,9 +4,13 @@ My latent space has the following dimensions:
 
 - 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
 - ⚔️ **Purpose**-driven and **process**-oriented
-- 🧠 **Artificial Intelligence** MSc student @ **Sapienza** University of Rome
-- 🧬 Aspiring to deploy AI in 👶 [**Genomics**](https://en.wikipedia.org/wiki/Genomics)
-- 🗺️ [**Macroeconomics**](https://en.wikipedia.org/wiki/Macroeconomics), [global macro](https://en.wikipedia.org/wiki/Global_macro) trading and investing
+- 🧠 **Artificial Intelligence** @ **Sapienza** University of Rome
+- 🗺️ [**Macroeconomics**](https://en.wikipedia.org/wiki/Macroeconomics)
+- 🌤️ [**Mindfulness**](https://en.wikipedia.org/wiki/Mindfulness)
+  
+I currently aspire to:
+- 🧬 Deploy AI in 👶 [**Genomics**](https://en.wikipedia.org/wiki/Genomics)
+- 💹 Become a [global macro](https://en.wikipedia.org/wiki/Global_macro) trader and investor
 
 <br>
 
@@ -30,3 +34,13 @@ My latent space has the following dimensions:
 | [Braver Cat](https://github.com/Braver-Cat>Braver-Cat) | Exploring the power of Transfer Learning in brain and liver tumor segmentation |
 | [Cheap Clasp](https://github.com/Cheap-Clasp) | Assessing JPEG image encoding capabilities as alternative to Deep Learning-based models |
 | [GeNNuS](https://github.com/Filetto-Di-Salmone/GeNNus) | Music genre classification via Deep Neural Networks in the time and frequency domains |
+
+<br>
+
+### Exams I enjoyed the most 👨‍🎓
+
+- [Deep Learning and Applied AI](https://github.com/dansolombrino/DLAI-2022-23)
+- [Fundamentals of Data Science](https://github.com/dansolombrino/FDS-2022-23)
+- [Natural Language Processing](https://github.com/dansolombrino/NLP-2022-23)
+- [Numerical Methods for Computer Science](https://github.com/dansolombrino/NumMethCS-2022-23)
+- More coming soon! 📘
