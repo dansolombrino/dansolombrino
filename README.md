@@ -5,7 +5,8 @@ My latent space has the following dimensions:
 - 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
 - ⚔️ **Purpose**-driven and **process**-oriented
 - 🧠 **Artificial Intelligence** MSc student @ **Sapienza** University of Rome
-- 🧬 Aspiring to deploy AI in 👶 **Genomics**
+- 🧬 Aspiring to deploy AI in 👶 [**Genomics**](https://en.wikipedia.org/wiki/Genomics)
+- 🗺️ [**Macroeconomics**](https://en.wikipedia.org/wiki/Macroeconomics), [global macro](https://en.wikipedia.org/wiki/Global_macro) trading and investing
 
 <br>
 
