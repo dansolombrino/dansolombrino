@@ -33,6 +33,7 @@ I currently aspire to:
 | [Big Data FC](https://github.com/Big-Data-FC) | Predicting football match results using Machine Learning and Big Data |
 | [Braver Cat](https://github.com/Braver-Cat>Braver-Cat) | Exploring the power of Transfer Learning in brain and liver tumor segmentation |
 | [Cheap Clasp](https://github.com/Cheap-Clasp) | Assessing JPEG image encoding capabilities as alternative to Deep Learning-based models |
+| [Distillo, Ergo Sum](https://github.com/Astronauts-Making-Limoncello/Distillo-Ergo-Sum) | Heterogeneous Knowledge Distillation on medical images segmentation |
 | [GeNNuS](https://github.com/Filetto-Di-Salmone/GeNNus) | Music genre classification via Deep Neural Networks in the time and frequency domains |
 
 <br>
