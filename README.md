@@ -21,6 +21,7 @@ I currently aspire to:
 | [Biscuits](https://github.com/dansolombrino/Biscuits) | Experiments inspired by the paper [Training BatchNorm and Only BatchNorm](https://openreview.net/forum?id=vYeQQ29Tbvx), ICLR 2021 |
 | [CreActive](https://github.com/dansolombrino/CreActive) | Experiments on activation functions of Deep Neural Networks |
 | [GPHungarian](https://github.com/dansolombrino/GPHungarian) | Custom GPU-accelerated version of the [Hungarian Algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm), written in CUDA and OpenCL |
+| [Kindergarten-VQ-VAE](https://github.com/dansolombrino/Kindergarten-VQ-VAE) | Exploring disentanglement properties of Transformers for NLP |
 
 <br>
 
