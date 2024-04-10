@@ -4,7 +4,7 @@ My latent space has the following dimensions:
 
 - 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
 - 🥷 **Purpose**-driven
-- 🧪 **process**-oriented
+- 🧪 **Process**-oriented
 - 🧠 **Artificial Intelligence** @ **Sapienza** University of Rome
 - 🗺️ [**Macroeconomics**](https://en.wikipedia.org/wiki/Macroeconomics)
 - 🌤️ [**Mindfulness**](https://en.wikipedia.org/wiki/Mindfulness)
