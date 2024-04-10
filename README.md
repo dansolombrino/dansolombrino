@@ -3,14 +3,14 @@
 My latent space has the following dimensions:
 
 - 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
-- ⚔️ **Purpose**-driven and **process**-oriented
+- 🥷 **Purpose**-driven
+- 🧪 **process**-oriented
 - 🧠 **Artificial Intelligence** @ **Sapienza** University of Rome
 - 🗺️ [**Macroeconomics**](https://en.wikipedia.org/wiki/Macroeconomics)
 - 🌤️ [**Mindfulness**](https://en.wikipedia.org/wiki/Mindfulness)
   
 I currently aspire to:
 - 🧬 Deploy AI in 👶 [**Genomics**](https://en.wikipedia.org/wiki/Genomics)
-- 💹 Become a [global macro](https://en.wikipedia.org/wiki/Global_macro) trader and investor
 
 <br>
 
