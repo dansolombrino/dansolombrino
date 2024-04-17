@@ -5,12 +5,9 @@ My latent space has the following dimensions:
 - 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
 - 🥷 **Purpose**-driven
 - 🧪 **Process**-oriented
-- 🧠 **Artificial Intelligence** @ **Sapienza** University of Rome
-- 🗺️ [**Macroeconomics**](https://en.wikipedia.org/wiki/Macroeconomics)
-- 🌤️ [**Mindfulness**](https://en.wikipedia.org/wiki/Mindfulness)
-  
-I currently aspire to:
-- 🧬 Deploy AI in 👶 [**Genomics**](https://en.wikipedia.org/wiki/Genomics)
+- 🧠 **Deep Learning** (BSc and MSc in CS @ Sapienza University of Rome)
+- 🗺️ [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics), personal finance and investing
+- 🌤️ [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness) and meditation
 
 <br>
 
