@@ -37,8 +37,9 @@ My latent space has the following dimensions:
 
 <br>
 
-### Exams I enjoyed the most 👨‍🎓
+### My study material 👨‍🎓
 
+- [Advanced Machine Learning](https://github.com/dansolombrino/AML-2023-24)
 - [Deep Learning and Applied AI](https://github.com/dansolombrino/DLAI-2022-23)
 - [Fundamentals of Data Science](https://github.com/dansolombrino/FDS-2022-23)
 - [Natural Language Processing](https://github.com/dansolombrino/NLP-2022-23)
