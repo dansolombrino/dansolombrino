@@ -1,17 +1,5 @@
 ### Ciao, Daniele here! 🖐🏻
 
-My latent space has the following dimensions:
-
-- 🫘 *"The mystery of endings and beginnings, transforms, through perspective."*
-- 🥷 **Purpose**-driven
-- 🧪 **Process**-oriented
-- 🚀 **Growth**-focused
-- 🧠 **Deep Learning** (BSc and MSc in CS @ Sapienza University of Rome)
-- 🗺️ [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics), personal finance and investing
-- 🌤️ [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness) and meditation
-
-<br>
-
 ### Own projects 🔥
 
 | Name      | Description           |
