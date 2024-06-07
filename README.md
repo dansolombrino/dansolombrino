@@ -4,7 +4,7 @@
 
 | Name      | Description           |
 |--------------------------------------|-------------------------------|
-| [Biscuits](https://github.com/dansolombrino/Biscuits) | Achieved 75% of original validation accuracy using just 1% of the parameters, inspired by [Training BatchNorm and Only BatchNorm](https://openreview.net/forum?id=vYeQQ29Tbvx) (ICLR 2021) |
+| [Biscuits](https://github.com/dansolombrino/Biscuits) | Achieved 75% of original validation accuracy using just 1% of the parameters, inspired by [Training BatchNorm and Only BatchNorm](https://openreview.net/forum?id=vYeQQ29Tbvx) |
 | [CreActive](https://github.com/dansolombrino/CreActive) | Devised techniques to observe statistics, patterns and behaviors of Deep Neural Networks activations |
 | [GPHungarian](https://github.com/dansolombrino/GPHungarian) | 800x speedup via custom, CUDA-accelerated version of the [Hungarian Algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm) |
 | [Kindergarten-VQ-VAE](https://github.com/dansolombrino/Kindergarten-VQ-VAE) | Devised custom disentanglement modules for Transformers |
