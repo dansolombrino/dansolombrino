@@ -1,17 +1,17 @@
 # Ciao, it's Daniele here! 🖐🏻
 
-### Own projects 🔥
+### Solo projects 🔥
 
 | Name      | Description           |
-|-------------------|-------------------------------|
-| [Biscuits](https://github.com/dansolombrino/Biscuits) | Experiments inspired by the paper [Training BatchNorm and Only BatchNorm](https://openreview.net/forum?id=vYeQQ29Tbvx), ICLR 2021 |
-| [CreActive](https://github.com/dansolombrino/CreActive) | Experiments on activation functions of Deep Neural Networks |
-| [GPHungarian](https://github.com/dansolombrino/GPHungarian) | Custom GPU-accelerated version of the [Hungarian Algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm), written in CUDA and OpenCL |
-| [Kindergarten-VQ-VAE](https://github.com/dansolombrino/Kindergarten-VQ-VAE) | Exploring disentanglement properties of Transformers for NLP |
+|--------------------------------------|-------------------------------|
+| [Biscuits](https://github.com/dansolombrino/Biscuits) | Achieved 75% of original validation accuracy using just 1% of the parameters, inspired by [Training BatchNorm and Only BatchNorm](https://openreview.net/forum?id=vYeQQ29Tbvx) (ICLR 2021) |
+| [CreActive](https://github.com/dansolombrino/CreActive) | Devised techniques to observe statistics, patterns and behaviors of Deep Neural Networks activations |
+| [GPHungarian](https://github.com/dansolombrino/GPHungarian) | 800x speedup via custom, CUDA-accelerated version of the [Hungarian Algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm) |
+| [Kindergarten-VQ-VAE](https://github.com/dansolombrino/Kindergarten-VQ-VAE) | Devised custom disentanglement modules for Transformers |
 
 <br>
 
-### Projects I actively contributed to 🚀
+### Group projects 🚀
 
 
 | Name      | Description           |
