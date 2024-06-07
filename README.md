@@ -16,12 +16,12 @@
 
 | Name      | Description           |
 |-------------------|-------------------------------|
-| [AML_Homework](https://github.com/Astronauts-Making-Limoncello/AML_Homework) | 3D human pose estimation using Spatio-Temporal (Graph) Transformers |
-| [Big Data FC](https://github.com/Big-Data-FC) | Predicting football match results using Machine Learning and Big Data |
-| [Braver Cat](https://github.com/Braver-Cat>Braver-Cat) | Exploring the power of Transfer Learning in brain and liver tumor segmentation |
-| [Cheap Clasp](https://github.com/Cheap-Clasp) | Assessing JPEG image encoding capabilities as alternative to Deep Learning-based models |
-| [Distillo, Ergo Sum](https://github.com/Astronauts-Making-Limoncello/Distillo-Ergo-Sum) | Heterogeneous Knowledge Distillation on medical images segmentation |
-| [GeNNuS](https://github.com/Filetto-Di-Salmone/GeNNus) | Music genre classification via Deep Neural Networks in the time and frequency domains |
+| [AML_Homework](https://github.com/Astronauts-Making-Limoncello/AML_Homework) | Devised novel, custom Spatio-Temporal Graph Attention Transformers and CNNs for 3D human pose estimation |
+| [Big Data FC](https://github.com/Big-Data-FC) | Devised novel representations for football teams starting from single players, custom Machine Learning algorithms to predict their end-of-the-season ranking, and a scraper for seasons 2007 to 2012 |
+| [Braver Cat](https://github.com/Braver-Cat/Braver-Cat) | Reduced train time by over 60% using Transfer Learning in medical image segmentation |
+| [Cheap Clasp](https://github.com/Cheap-Clasp) | Devised custom algorithms to use JPEG image encoder as an alternative to CLIP-like Neural image encoders |
+| [Distillo, Ergo Sum](https://github.com/Astronauts-Making-Limoncello/Distillo-Ergo-Sum) | Improved student model performances by 10% while using only 10% of its parameters using heterogeneous teacher-student framework (knowledge distillation) on medical images segmentation |
+| [GeNNuS](https://github.com/Filetto-Di-Salmone/GeNNus) | Achieved 87% validation accuracy on a music genre classification task and solved vanishing gradient issues |
 
 <br>
 
