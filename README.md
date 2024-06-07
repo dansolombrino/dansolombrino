@@ -1,4 +1,4 @@
-### Ciao, Daniele here! 🖐🏻
+# Ciao, it's Daniele here! 🖐🏻
 
 ### Own projects 🔥
 
