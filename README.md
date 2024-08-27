@@ -8,6 +8,7 @@
 | [CreActive](https://github.com/dansolombrino/CreActive) | Devised techniques to observe statistics, patterns and behaviors of Deep Neural Networks activations |
 | [GPHungarian](https://github.com/dansolombrino/GPHungarian) | 800x speedup via custom, CUDA-accelerated version of the [Hungarian Algorithm](https://en.wikipedia.org/wiki/Hungarian_algorithm) |
 | [Kindergarten-VQ-VAE](https://github.com/dansolombrino/Kindergarten-VQ-VAE) | Devised custom disentanglement modules for Transformers |
+| 👻 | 🤫🤐 |
 
 <br>
 
